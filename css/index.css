@@ -1,0 +1,56 @@
+body{
+  font-family: Calibri;
+}
+
+p{
+  font-family: Calibri;
+}
+
+h1{
+  background-color: #B2B1AD;
+}
+
+.imgLogo{
+  background-color: #F1ECED;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #E6E5E3;
+  padding: 20px;
+  width: 580px;
+  margin-left: 25%;
+}
+
+.imgPelho{
+  position: relative;
+  background-color: #F1ECED;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #E6E5E3;
+  padding: 20px;
+  margin-left: 70%;
+  width: 300px;
+}
+
+.textPelho{
+  position: relative;
+  margin-top: -350px;
+}
+
+.rodapeImg{
+  height: 30px;
+}
+
+.botao{
+  background-color: #DBDBF3;
+  color: #0305F3;
+  width: 500px;
+  margin-left: 30%;
+  font-size: 44px;
+}
+
+.rodapeText{
+  position: relative;
+  margin-left: 20px;
+  top: -10px;
+  color: #9FA29F;
+}
